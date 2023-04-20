@@ -34,8 +34,8 @@
 - `introduce()`; prints out a message introducing the animal with their name, species, and age.
 - `birthday()`; increments the anima's age by 1.
 
-3. Create 3 instances of the `Animal` class with differrent properties, and call the `introduce()` method on each instance.
+  3.Create 3 instances of the `Animal` class with differrent properties, and call the `introduce()` method on each instance.
 
-4. Call the `birthday()` method on one of the animal instance and then call the `introduce()` method again to see the updated age.
+  4.Call the `birthday()` method on one of the animal instance and then call the `introduce()` method again to see the updated age.
 
 ### Inheritance
