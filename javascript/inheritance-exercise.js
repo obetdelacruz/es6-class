@@ -33,5 +33,5 @@ class Dog extends Animal {
 const animal1 = new Animal("Lawin", 3);
 animal1.speak();
 
-const myAnimal = new Dog("Bingo", 2, "Haspin");
+const dog1 = new Dog("Bingo", 2, "Haspin");
 myAnimal.speak();
