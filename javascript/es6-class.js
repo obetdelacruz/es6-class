@@ -13,3 +13,5 @@ class Person {
 //ES6 Class Example Syntax
 const person3 = new Person("Luis", 14);
 person3.sayHello();
+
+//Exersices

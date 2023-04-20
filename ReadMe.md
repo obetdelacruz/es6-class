@@ -39,3 +39,16 @@
   4.Call the `birthday()` method on one of the animal instance and then call the `introduce()` method again to see the updated age.
 
 ### Inheritance
+
+1. properties and methods can be inherit
+
+### Exerices in Inheritance
+
+1. Create a new class `Animal` with properties name and age.
+2. Add a `speak` method that includes the name of the animal and the sound that it makes.
+   -console.log(`$this.name) makes a noise.`);
+3. Create another class called `Dog` that extends the `Animal` class
+4. The `Dog` class have a special property called `breed`
+5. Edit the `speak` method of a Dog.
+   -console.log(`${this.name} barks.`);
+6. Create a new instance of a Dog
